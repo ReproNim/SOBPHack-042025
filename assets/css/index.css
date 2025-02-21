@@ -196,7 +196,7 @@
 	-webkit-align-items: center;
 	align-items: center;
 	flex-wrap: wrap;
-	min-width: 300px;
+	min-width: 900px;
 	max-width: 1200px;
 	justify-content: space-even;
 	background: rgb(255,255,255);
